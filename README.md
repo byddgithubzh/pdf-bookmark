@@ -23,6 +23,8 @@ build/image/bin/pdf-bookmark
 <br />![](./img/main_gui.png)
 
 ## 使用方法
+### 0. 启动程序 ###
+在Release中下载win版本压缩包，启动bin文件夹下的"pdf-bookmark.bat"文件即可启动程序
 ### 1. 选择pdf文件 ###
 点击**选择文件**按钮选择要添加目录的pdf文件
 ### 2. 填写页面偏移量 ###
